@@ -3,7 +3,7 @@ package com.example.forged.data.local.entities
 import androidx.room.Entity
 import androidx.room.ForeignKey
 import androidx.room.Index
-import com.example.forged.data.local.enums.BodyPartRole
+import com.example.forged.domain.model.BodyPartRole
 
 @Entity(
     tableName = "exercise_body_part_cross_ref",

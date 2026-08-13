@@ -1,7 +1,7 @@
 package com.example.forged.data.local
 
 import androidx.room.TypeConverter
-import com.example.forged.data.local.enums.BodyPartRole
+import com.example.forged.domain.model.BodyPartRole
 import java.time.Instant
 import java.time.LocalDate
 

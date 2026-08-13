@@ -1,4 +1,4 @@
-package com.example.forged.data.local.enums
+package com.example.forged.domain.model
 
 enum class BodyPartRole {
     PRIMARY,
