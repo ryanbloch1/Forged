@@ -2,10 +2,15 @@ package com.example.forged.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
-
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val ForgedOrange = Color(0xFFFF6A2A)
+val ForgedOrangeDim = Color(0xFF3A2218)
+val ForgedBackground = Color(0xFF141414)
+val ForgedSurface = Color(0xFF1E1E1E)
+val ForgedSurfaceRaised = Color(0xFF252525)
+val ForgedBorder = Color(0xFF333333)
+val ForgedOnBackground = Color(0xFFF2F2F2)
+val ForgedMuted = Color(0xFF9A9A9A)
+val ForgedDelete = Color(0xFFE24B4B)
+val ForgedStatusGreen = Color(0xFF3DDC84)
+val ForgedStatusAmber = Color(0xFFFFB020)
+val ForgedStatusRed = Color(0xFFE24B4B)

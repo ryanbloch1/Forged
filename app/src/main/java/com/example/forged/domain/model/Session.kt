@@ -10,5 +10,6 @@ data class Session(
     val endTime: Instant?,
     val durationMinutes: Int,
     val notes: String?,
+    val bodyParts: List<String> = emptyList(),
     val exercises: List<ExerciseEntry>,
 )

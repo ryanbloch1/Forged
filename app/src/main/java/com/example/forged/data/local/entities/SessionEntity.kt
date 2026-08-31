@@ -13,4 +13,5 @@ data class SessionEntity(
     val endTime: Instant?,
     val durationMinutes: Int,
     val notes: String?,
+    val bodyParts: String? = null,
 )
